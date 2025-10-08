@@ -1,0 +1,10 @@
+/* Base styles for Retirement Preparedness Score app */
+body {
+  margin: 0;
+  font-family: system-ui, Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #222;
+}
+h1, h2, h3 {
+  color: #0d3b66;
+}
