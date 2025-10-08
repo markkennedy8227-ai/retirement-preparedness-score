@@ -1,0 +1,5 @@
+{
+  "name": "Retirement Preparedness Score",
+  "description": "An application that assesses your retirement preparedness through a series of questions, provides a score, and generates a personalized report with an option to connect with a financial advisor.",
+  "requestFramePermissions": []
+}
